@@ -1,6 +1,7 @@
 # A Next.js starter for the [JAMstack](https://jamstack.org)
 This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/743520d8a5e947818d492b2f5be8a0b2)](https://app.codacy.com/gh/AZ-android/Az888-starter-jamstack?utm_source=github.com&utm_medium=referral&utm_content=AZ-android/Az888-starter-jamstack&utm_campaign=Badge_Grade_Settings)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
 
 ## Usage
